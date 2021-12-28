@@ -1,4 +1,4 @@
-## Olá! me chamo Anderson Bones, sou um simples Estudante e Amante da Tecnologia.
+## Olá! me chamo Anderson Bones, sou um Estudante e Amante da Tecnologia.
 
 <div align="center">
   <a href="https://github.com/AndersonBones">
