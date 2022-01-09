@@ -1,4 +1,4 @@
-## Olá! me chamo Anderson Bones. Ainda sou um Iniciante na área da programação web, Mas já sou um amante da área.
+## Olá! me chamo Anderson Bones. Ainda sou um Iniciante em programação web, Mas já sou um amante da área.
 
 <div align="center">
   <a href="https://github.com/AndersonBones">
